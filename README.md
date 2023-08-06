@@ -1,3 +1,3 @@
 # fullstackopen
 
-exercises from fullstackopen course
+this repo contains my solutions to exercises from the fullstackopen course
